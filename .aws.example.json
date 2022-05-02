@@ -1,0 +1,7 @@
+{
+    "accessKeyId": "AAA",
+    "secretAccessKey": "KKK",
+    "bucketProduction": "programmatic-uploads-production",
+    "bucketStaging": "programmatic-uploads-staging",
+    "region": "eu-central-1"
+  }
